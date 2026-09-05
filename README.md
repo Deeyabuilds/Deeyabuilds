@@ -1,14 +1,19 @@
 <div align="center">
 
-# *Hi, I'm Deeya.*
+# Hey, I'm Deeya.
 
-### *Trying · Breaking · Exploring*
+### Trying · Breaking · Exploring
 
-*I like figuring out how things work — and then immediately trying to mess with them.*
+I like figuring out how things work —
+and then immediately trying to mess with them.
 
-*Some days it's code. Some days it's a random idea that somehow becomes a project.*
+Some days it's code.
+Some days it's a random idea that somehow becomes a project.
 
-*Don't really know where all of this is going yet, but I'm having fun figuring it out.*
+Don't really know where all of this is going yet,
+but I'm having fun figuring it out.
+
+<br>
 
 *"Just curious enough to try."*
 
