@@ -4,21 +4,15 @@
 
 ### Trying · Breaking · Exploring
 
-I like figuring out how things work —
-and then immediately trying to mess with them.
+I like figuring out how things work — and then immediately trying to mess with them.
 
-Some days it's code.
-Some days it's a random idea that somehow becomes a project.
+Some days it's code. Some days it's a random idea that somehow becomes a project.
 
-Don't really know where all of this is going yet,
-but I'm having fun figuring it out.
-
-<br>
+Don't really know where all of this is going yet, but I'm having fun figuring it out.
 
 *"Just curious enough to try."*
 
 </div>
-
 ---
 
 ## About
