@@ -4,6 +4,8 @@
 
 <i>Curious · A Little Chaotic · Figuring It Out</i>
 
+
+
 <i>
 I'm usually somewhere between "Wait, how does this work?"
 and "Okay, let me try it myself."
@@ -19,7 +21,12 @@ I don't really know where all of this is going yet —
 I'm just enjoying figuring it out.
 </i>
 
+
+
+
 *"Still figuring things out."*
+
+
 
 </div>
 
