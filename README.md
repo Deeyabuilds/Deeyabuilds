@@ -1,23 +1,27 @@
-# Hey, I'm Deeya.
-
 <div align="center">
 
-**Curious · A Little Chaotic · Figuring It Out**
+# Hey, I'm Deeya.
 
+<i>Curious · A Little Chaotic · Figuring It Out</i>
+
+<i>
 I'm usually somewhere between "Wait, how does this work?"
 and "Okay, let me try it myself."
+</i>
 
+<i>
 I ask too many questions, get distracted by random ideas,
 and somehow turn small things into little experiments.
+</i>
 
+<i>
 I don't really know where all of this is going yet —
 I'm just enjoying figuring it out.
+</i>
 
 *"Still figuring things out."*
 
 </div>
-
----
 
 ## About
 
