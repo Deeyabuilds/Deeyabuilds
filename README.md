@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Deeya.
+# Hi, I'm Deeya.
 
 ### Trying · Breaking · Exploring
 
@@ -13,6 +13,7 @@ Don't really know where all of this is going yet, but I'm having fun figuring it
 *"Just curious enough to try."*
 
 </div>
+
 ---
 
 ## About
