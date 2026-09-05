@@ -1,21 +1,23 @@
 <div align="center">
 
-# Hey, I'm Deeya!
+<h1><i>Hi, I'm Deeya.</i></h1>
 
-### Trying · Breaking · Exploring
+<h3><i>Trying · Breaking · Exploring</i></h3>
 
-I like figuring out how things work —
-and then immediately trying to mess with them.
+<i>
+I like figuring out how things work —<br>
+and then immediately trying to mess with them.<br>
 
-Some days it's code.
-Some days it's a random idea that somehow becomes a project.
+Some days it's code.<br>
+Some days it's a random idea that somehow becomes a project.<br>
 
-Don't really know where all of this is going yet,
+Don't really know where all of this is going yet,<br>
 but I'm having fun figuring it out.
+</i>
 
-<br>
+<br><br>
 
-*"Just curious enough to try."*
+<i>"Just curious enough to try."</i>
 
 </div>
 
