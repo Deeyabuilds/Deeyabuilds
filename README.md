@@ -46,8 +46,9 @@ Still a work in progress.
 
 ---
 
-## These Days
+## A Little About What I'm Up To
 
-`C++` · `DSA` · `LeetCode` · `Problem Solving` · `College Projects`
-
-`Learning` → `Trying` → `Getting Stuck` → `Figuring It Out`
+- C++ and DSA, mostly
+- Trying to get the hang of problem solving
+- Working on projects, exploring new things, and figuring out what I actually enjoy
+- Learning how GitHub actually works
