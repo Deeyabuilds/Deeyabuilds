@@ -1,35 +1,26 @@
 <div align="center">
 
-# Hey, I'm Deeya.
+# Hi, I'm Deeya.
+<br>
+### Trying · Breaking · Exploring
+<br>
 
-<i>Curious · A Little Chaotic · Figuring It Out</i>
+I like figuring out how things work —
+and then immediately trying to mess with them.
 
+Some days it's code.
+Some days it's a random idea that somehow becomes a project.
 
+Don't really know where all of this is going yet,
+but I'm having fun figuring it out.
 
-<i>
-I'm usually somewhere between "Wait, how does this work?"
-and "Okay, let me try it myself."
-</i>
+<br>
 
-<i>
-I ask too many questions, get distracted by random ideas,
-and somehow turn small things into little experiments.
-</i>
-
-<i>
-I don't really know where all of this is going yet —
-I'm just enjoying figuring it out.
-</i>
-
-
-
-
-*"Still figuring things out."*
-
-
+*"Just curious enough to try."*
 
 </div>
 
+</div>
 ## About
 
 I got into coding because I wanted to know what was actually
