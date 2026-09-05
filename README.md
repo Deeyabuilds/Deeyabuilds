@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm Deeya.
-<br>
+# Hey, I'm Deeya!
+
 ### Trying · Breaking · Exploring
-<br>
 
 I like figuring out how things work —
 and then immediately trying to mess with them.
@@ -20,7 +19,8 @@ but I'm having fun figuring it out.
 
 </div>
 
-</div>
+---
+
 ## About
 
 I got into coding because I wanted to know what was actually
