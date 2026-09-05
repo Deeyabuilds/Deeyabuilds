@@ -32,7 +32,7 @@ part of the routine.
 
 I like the part where something doesn't work.
 
-Not immediately, obviously. 😭
+Not immediately, obviously.
 
 But there's something satisfying about staring at a problem for
 way too long, finding the stupid little thing you missed, and
