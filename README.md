@@ -37,13 +37,5 @@ Most of the stuff here is just proof that I was there —
 solved this, built that, broke something, fixed something,
 learned something.
 
-Still a work in progress.
 
 ---
-
-## A Little About What I'm Up To
-
-- C++ and DSA, mostly
-- Trying to get the hang of problem solving
-- Working on projects, exploring new things, and figuring out what I actually enjoy
-- Learning how GitHub actually works
