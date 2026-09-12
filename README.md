@@ -2,7 +2,7 @@
 
 # Hi, I'm Deeya.
 
-### Trying · Breaking · Exploring
+
 
 I like figuring out how things work — and then immediately trying to mess with them.
 
